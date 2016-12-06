@@ -11,3 +11,6 @@ Submission entry does the following tasks:
 
 Google Drive apk-link: https://drive.google.com/drive/folders/0B7Ef-Q8GQX2yYzJnZDVZOTdoX0U?usp=sharing
 
+##Click on floating button to compose messages. 
+
+
